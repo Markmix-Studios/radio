@@ -36,4 +36,4 @@ If you enjoy listening to **Markmix Radio** and our mission to inspire through g
 **Markmix Radio**  
 *Good music, better experience.*
 ---
-## <a href="https://www.w3schools.com](https://markmix-studios.github.io/radio">Visit Radio</a>
+## <a href="https://markmix-studios.github.io/radio">Visit Radio</a>
