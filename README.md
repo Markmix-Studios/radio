@@ -22,9 +22,9 @@ Tune in to **Markmix Radio** anytime, anywhere using the following stream link:
 
 - **Official Website**: [Markmix Radio](https://markmixstudios.blogspot.com/p/about.html)  
 - **Social Media**:  
-  - Facebook: [Markmix Radio](https://www.facebook.com/markmixstudios1)  
-  - Instagram: [@markmixradio](https://www.instagram.com/markmix.studios)  
-- **Email**: [markmixradio@gmail.com](mailto:markmixradio@gmail.com)
+  - Facebook: [Markmix Studios](https://www.facebook.com/markmixstudios1)  
+  - Instagram: [@markmix.studios](https://www.instagram.com/markmix.studios)  
+- **Email**: [markmixstudios@gmail.com](mailto:markmixradio@gmail.com)
 
 ---
 
