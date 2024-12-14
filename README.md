@@ -1,6 +1,6 @@
 # Markmix Radio 🎧
 
-Welcome to the official repository for **Markmix Radio**—your home for uplifting Christian gospel content and inspirational radio programming.
+Welcome to the official repository for **Markmix Radio**—your home of good music, better experience.
 
 ---
 
