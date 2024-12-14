@@ -14,7 +14,7 @@ Our mission is to entertain our listeners with good music experience.
 ## Listen Live
 
 Tune in to **Markmix Radio** anytime, anywhere using the following stream link:  
-🎙️ [Markmix Radio Live Stream](https://stream.zeno.fm/2qkmivock4zvv)
+🎙️ [Markmix Radio Live Stream](https://stream-176.zeno.fm/tylpaba8zmquv)
 
 ---
 
