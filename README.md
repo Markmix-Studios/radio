@@ -33,5 +33,5 @@ Tune in to **Markmix Radio** anytime, anywhere using the following stream link:
 If you enjoy listening to **Markmix Radio** and our mission to inspire through gospel music and teachings, share this repository or tune in regularly. Your support keeps us going!
 
 ---
-** Markmix Radio**  
+**Markmix Radio**  
 *Good music, better experience.*
