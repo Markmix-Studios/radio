@@ -24,8 +24,7 @@ Tune in to **Markmix Radio** anytime, anywhere using the following stream link:
 - **Social Media**:  
   - Twitter/X: [@onebismark_](https://x.com/onebismark_)
   - Facebook: [Markmix](https://www.facebook.com/onebismark)  
-  - Instagram: [@markmix.studios
-(https://www.instagram.com/markmix.studios)  
+  - Instagram: [@markmix.studios](https://www.instagram.com/markmix.studios)  
 - **Email**: [info@markmixstudios.com](mailto:info@markmixstudios.com)
 
 ---
