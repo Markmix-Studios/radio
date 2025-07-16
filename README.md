@@ -22,9 +22,11 @@ Tune in to **Markmix Radio** anytime, anywhere using the following stream link:
 
 - **Official Website**: [Markmix Radio](https://markmixstudios.blogspot.com/p/about.html)  
 - **Social Media**:  
-  - Facebook: [Markmix Studios](https://www.facebook.com/markmixstudios1)  
-  - Instagram: [@markmix.studios](https://www.instagram.com/markmix.studios)  
-- **Email**: [markmixstudios@gmail.com](mailto:markmixradio@gmail.com)
+  - Twitter/X: [@onebismark_](https://x.com/onebismark_)
+  - Facebook: [Markmix](https://www.facebook.com/onebismark)  
+  - Instagram: [@markmix.studios
+(https://www.instagram.com/markmix.studios)  
+- **Email**: [info@markmixstudios.com](mailto:info@markmixstudios.com)
 
 ---
 
@@ -36,4 +38,4 @@ If you enjoy listening to **Markmix Radio** and our mission to inspire through g
 **Markmix Radio**  
 *Good music, better experience.*
 ---
-## <a href="https://markmix-studios.github.io/radio">Visit Radio</a>
+## <a href="https://me.markmixstudios.com/radio">Visit Radio</a>
